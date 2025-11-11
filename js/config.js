@@ -5,6 +5,6 @@ window._config = {
         region: 'ap-south-1' 
     },
     api: {
-        invokeUrl: 'https://fctspyq7tg.execute-api.ap-south-1.amazonaws.com/dev',
+        invokeUrl: '',
     }
 };
